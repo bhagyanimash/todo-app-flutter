@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:todo/Screens/home_page.dart';
+import 'package:todo/pages/home_page.dart';
 import 'package:todo/components/todolist.dart';
 
 void main() {
